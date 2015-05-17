@@ -7,9 +7,10 @@ angular.module("mopIzlozba", [
 .config(function ($stateProvider, $urlRouterProvider) {
   $stateProvider
   .state("home", {
-    url: "/",
+    url: "/:user/:image",
     templateUrl: "main/views/home.html",
-    controller: "MainController"
+    controller: "MainController",
+    controllerAs: "main"
   });
 
   $urlRouterProvider.otherwise("/");

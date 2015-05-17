@@ -1,5 +1,7 @@
-<div class="hero-unit">
-  <h1>'Allo, 'Allo!</h1>
-  <p>You now have</p>
-  <div stack-list></div>
+<div class="container">
+  <p class="small">{{main.work.name}}</p>
+  <h2>{{ main.workUser.name }}</h2>
+  <img ng-src="work/{{ main.work.url }}" alt="{{main.work.name}}">
+  <p class="small">Bio</p>
+  <h3>{{ main.workUser.bio }}</h3>
 </div>

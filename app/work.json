@@ -1,0 +1,327 @@
+{
+  "work": [
+    {
+      "author":"almatrtovac",
+      "name": "Alma Trtovac",
+      "bio": "Alma Trtovec  rođena je 1988. godine u Zagrebu. 2011. godine diplomirala je slikarstvo na Akademiji likovnih umjetnosti u Zagrebu. 2012. godine dobila je zvanje magistra slikarstva na Akademiji likovnih umjetnosti u Zagrebu, pod mentorstvom prof. Zoltana Novaka. U 2012. godini postala je član Hrvatskog društva likovnih umjetnika.",
+      "works": [
+        {
+          "url": "AlmaTrtovac/alma_1.jpg",
+          "name": "Gradovi 1"
+        },
+        {
+          "url": "AlmaTrtovac/alma_2.jpg",
+          "name": "Gradovi 2"
+        }
+      ]
+    },
+    {
+      "author":"anavinkovic",
+      "name": "Ana Vinković",
+      "bio": "Ana Vinković je rođena 1993. godine u Bjelovaru. Završila je Ekonomsku i birotehničku školu u Bjelovaru. Godine 2012. upisuje preddiplomski sveučilišni studij Grafika na Akademiji likovnih umjetnosti Sveučilišta u Zagrebu. Trenutno pohađa treću godinu pod mentorstvom prof. Mirjane Vodopije. U svojim radovima istražuje samu sebe. Svoja psihička stanja, stanja duhovnog nastoji materijalizirati i  time im dati prolaznost; učiniti ih podložnima utjecaju vremena, starenju. Tada je moguće uspostaviti odnos s materijaliziranim duhovnim.",
+      "works": [
+        {
+          "url": "AnaVinkovic/ana_1.jpg",
+          "name": "Lebdim"
+        },
+        {
+          "url": "AnaVinkovic/ana_2.jpg",
+          "name": "Put"
+        }
+      ]
+    },
+    {
+      "author":"andrejbestak",
+      "name": "Andrej Beštak",
+      "bio": "Rođen u Zagrebu 1993. godine. Završio  X. gimnaziju 'Ivan Supek' u Zagrebu 2011. godine. Akademiju likovnih umjetnosti upisuje 2012. godine na grafičkom odsjeku. Trenutno je student treće godine u klasi profesorice Mirjane Vodopije",
+      "works": [
+        {
+          "url": "AndrejBestak/andrej_1.jpg",
+          "name": "Okolo Naokolo"
+        }
+      ]
+    },
+    {
+      "author":"bojanmigac",
+      "name": "Bojan Migač",
+      "bio": "Rođen 1990. godine u Varaždinu. Krajem osnovne škole počeo se baviti fotografijom kad sam se pridružio fotoklubu iz Lepoglave. Kroz godine i edukaciju u fotoklubu najrađe fotografira portrete, a u posljednje 3 godine zaokupio se fotografiranjem vjenčanja što je postalo njegov posao i životni cilj.",
+      "works": [
+        {
+          "url": "BojanMigac/bojan_1.jpg",
+          "name": "Čarolija u šumi"
+        },
+        {
+          "url": "BojanMigac/bojan_2.jpg",
+          "name": "Zimsko jutro"
+        }
+      ]
+    },
+    {
+      "author":"bozostipovic",
+      "name": "Božo Stipović",
+      "bio": "Rođen je 17.11.1989. u Splitu. Počeo je raditi amaterski fotografiju i sa 7 godina bio član Foto kluba Brodosplit. Nakon osnovne škole upisuje srednju Obrtničku školu u Splitu Natka Nodila smjer Fotograf. Završetkom srednje škole posvećuje se projektu pod nazivom Splitski kutak, koja je ujedino i njegova samostalna izložba. Nakon izložbe radi za mlade modne agencije u Splitu i okolici. 2014. godine odrađuje prvu vlastitu modnu revioju pod imenom Valerija.",
+      "works": [
+        {
+          "url": "BozoStipovic/bozo_1.jpg",
+          "name": "U žaru borbe grčkog vojnika"
+        },
+        {
+          "url": "BozoStipovic/bozo_2.jpg",
+          "name": "Život otvorenih škura"
+        }
+      ]
+    },
+    {
+      "author":"carlamrudelic",
+      "name": "Carla M. Rudelić",
+      "bio": "Ne-profesionalni umjetnik iz Pule. Rođena  u New Yorku 12.11.1989. Od malena je voljela crtkarati po svim (ne)slobodnim površinama. Završila  osnovnu školu u Zagrebu te se nakon toga seli u Pulu. Potom završava talijansku jezičnu gimnaziju. Umjetnica je počela ozbiljnije eksperimentirati s 'dimenzijama' nakon duhovnih iskustava u proljeće 2013. (prijelaz od apstrakcija u surealizam). Njeni radovi su spoj proporcionalnog i obrnuto proporcionalnog estetizma.",
+      "works": [
+        {
+          "url": "carlamrudelic/carla_1.jpg",
+          "name": "Kubna Singularnost"
+        },
+        {
+          "url": "carlamrudelic/carla_2.jpg",
+          "name": "Infinity"
+        }
+      ]
+    },
+    {
+      "author":"davidmlinaric",
+      "name": "David Mlinarić",
+      "bio": "Rođen je 1993. godine u Zagrebu. Živi u Oroslavju. Završio je srednju  Školu za umjetnost, dizajn, grafiku i odjeću u Zaboku. Skoro cijeli život bavi se umjetnošću te osobito grafikom. Traga i za drugim pravcima umjetnosti kao što je slikarstvo kojem je puno truda posvetio  zadnjih godina. Voli čitati knjige raznih žanrova a najviše umjetničke biografije slikara i povijest umjetnosti.",
+      "works": [
+        {
+          "url": "DavidMlinaric/david_1.jpg",
+          "name": "Pozitiv - negativ"
+        },
+        {
+          "url": "DavidMlinaric/david_2.jpg",
+          "name": "Trodimenzionalnost"
+        }
+      ]
+    },
+    {
+      "author":"davidmlinaric",
+      "name": "David Mlinarić",
+      "bio": "Rođen je 1993. godine u Zagrebu. Živi u Oroslavju. Završio je srednju  Školu za umjetnost, dizajn, grafiku i odjeću u Zaboku. Skoro cijeli život bavi se umjetnošću te osobito grafikom. Traga i za drugim pravcima umjetnosti kao što je slikarstvo kojem je puno truda posvetio  zadnjih godina. Voli čitati knjige raznih žanrova a najviše umjetničke biografije slikara i povijest umjetnosti.",
+      "works": [
+        {
+          "url": "DavidMlinaric/david_1.jpg",
+          "name": "Pozitiv - negativ"
+        },
+        {
+          "url": "DavidMlinaric/david_2.jpg",
+          "name": "Trodimenzionalnost"
+        }
+      ]
+    },
+    {
+      "author":"dinkosimac",
+      "name": "Dinko Šimac",
+      "bio": "Dinko Šimac trenutno završava magisterij na smjeru Medijske komunikacije u Mariboru. Za magistarski rad proučava emocije u filmovima, a u slobodno vrijeme bavi se prvenstveno videografijom i pisanjem, dok mu je fotografija strast uz koju voli provoditi vrijeme, ali nikad se neće nazvati fotografom iz poštovanja prema pravim fotografima.",
+      "works": [
+        {
+          "url": "DinkoSimac/dinko_1.jpg",
+          "name": "Katar Gitara"
+        },
+        {
+          "url": "DinkoSimac/dinko_2.jpg",
+          "name": "Drvo u Magli"
+        }
+      ]
+    },
+    {
+      "author":"frankaklisanin",
+      "name": "Franka Klišanin",
+      "bio": " Franka Klišanin počela se baviti fotografijom 2009. godine, kada je u Školi primijenjene umjetnosti i dizajna odlčila upisati fotografski odjel. Tamo se paralelno bavila kako klasičnom, tako i digitalnom fotogrfijom, a samo par mjeseci nakon pohađanja nastave na fotografskom odjelu, uz sugestije profesora, 2010. godine svoje radove prijavljuje na natječaj ‘Zlatni objektiv’ gdje osvaja posebnu nagradu žirija za najbolji umjetnčki dojam.",
+      "works": [
+        {
+          "url": "FrankaKlisanin/franka_1.jpg",
+          "name": "Akt"
+        },
+        {
+          "url": "FrankaKlisanin/franka_2.jpg",
+          "name": "Blizanke"
+        }
+      ]
+    },
+    {
+      "author":"ivanabajcer",
+      "name": "Ivana Bajcer",
+      "bio": "Studentica je druge godine Akademije likovnih umjetnosti u Zagrebu, smjera grafike. Sudjelovala je na skupnim izložbama. Demostrirala je izradu grafike u grafičkoj radionici za litografiju, uoči Noći muzeja, na ALU u Zagrebu. Dodijeljena joj je pohvala za uspješan rad u akad. god. 2013-2014 na odsjeku grafika. Trenutno priloženi radovi nastali su u grafičkoj tehici, litografiji. Autorica na apstraktan ali i pomalo figurativan način izražava stanje svoga duha u kojem se svatko pronalazi. Od svakidašnjeg otkucaja normalnog tempa života pa do trenutka kada nas zagrli nelagoda svojim bolesnim rukama i vuće nas u tamu, a mi se od tolikog razočaranja prepuštamo njenoj sili.",
+      "works": [
+        {
+          "url": "IvanaBajcer/ivana_1.jpg",
+          "name": "Otkucaj"
+        },
+        {
+          "url": "IvanaBajcer/ivana_2.jpg",
+          "name": "Zagrljaj"
+        }
+      ]
+    },
+    {
+      "author":"laurazorko",
+      "name": "Laura Zorko",
+      "bio": "Dvadesetogodišnja studentica Likovne akademije u Zagrebu, maturirala je u Školi primijenjenih umjetnosti i dizajna na Foto odjelu. Izlagala je na dvije samostalne te na brojnim grupnim izložbama.",
+      "works": [
+        {
+          "url": "LauraZorko/laura_1.jpg",
+          "name": "Meduze"
+        },
+        {
+          "url": "LauraZorko/laura_2.jpg",
+          "name": "Skuca"
+        }
+      ]
+    },
+    {
+      "author":"laurazorko",
+      "name": "Lucija Petrović",
+      "bio": "Lucija Petrović je studentica  ekonomije na Sveučilištu Jurja Dobrile u Puli, a inspiraciju za svoja djela pronalazi u prirodi i ljudima za koje smatra da pate od silnog društvenog pritiska. U slikarstvu se najviše pronalazi u nadrealizmu  te se trudi da i njene slike nose za sobom dašak ovog neobičnog, nadrealnog i posebnog pokreta.",
+      "works": [
+        {
+          "url": "LucijaPetrovic/lucija_1.jpg",
+          "name": "In the middle of nowhere"
+        }
+      ]
+    },
+    {
+      "author":"manuealagospocic",
+      "name": "Manuela Gospočić",
+      "bio": "Rođena je  1993. godine u Bjelovaru. Studira grafiku na Akademiji likovnih umjetnosti u Zagrebu u klasi izv. prof. art.  Mirjane Vodopije. Izlagala je na četiri skupne izložbe.",
+      "works": [
+        {
+          "url": "ManuelaGospocic/manuela_1.jpg",
+          "name": "manuela_1"
+        },
+        {
+          "url": "ManuelaGospocic/manuela_2.jpg",
+          "name": "manuela_2"
+        }
+      ]
+    },
+    {
+      "author":"martinabanozic",
+      "name": "Martina Banožić",
+      "bio": "Biografija Martine Banožić počinje 1988. godine u glavnom gradu Hrvatske, Zagrebu. Završeno osnovnoškolsko i srednjoškolsko obrazovanje nastavlja na akademskoj razini upisujući Teksilno - tehnološki fakultet s akcentom na profesiju u industrijskom dizajnu tekstila i odjeće; čiji logičan slijed vidi u magisteriju modula dizajna tekstila. Uz vrlo interesantnu vertikalu koju pruža akademska edukacija, njeni interesi se šire horizontalno te dotiču tipografiju, vizualne komunikacije, arhitekturu i likovnu umjetnost. Kao svoja postignuća navodi sudjelovanje na međunarodnim i prestižnim sajmovima kao što su zagrebački ‘Dan D’, nizozemski ‘open: out put’ i slovenski festival vizualnih komunikacija ‘Magdalena’. Područje rada  se proteže od grafičkog dizajna do dizajna tekstila i digitalnog kolaža, što se često spaja u jedan rad.",
+      "works": [
+        {
+          "url": "MartinaBanozic/martina_1.jpg",
+          "name": "Scott Pilgrim vs. The world 1"
+        },
+        {
+          "url": "MartinaBanozic/martina_2.jpg",
+          "name": "Scott Pilgrim vs. The world 2"
+        },
+        {
+          "url": "MartinaBanozic/martina_3.jpg",
+          "name": "Scott Pilgrim vs. The world 3"
+        },
+        {
+          "url": "MartinaBanozic/martina_4.jpg",
+          "name": "Scott Pilgrim vs. The world 4"
+        }
+      ]
+    },
+    {
+      "author":"matijamoharic",
+      "name": "Matija Moharić",
+      "bio": "Rođen 14. prosinca 1992. u Čakovcu, gdje završava II. osnovnu školu. Godine 2007. upisuje Graditeljsku školu Čakovec, smjer multimedijski tehničar, u kojoj se dodatno bavi fotografijom i kamerom. Njegov prvi ozbiljniji rad na kameri bio je maturalni rad na temu spot za glazbeni sastav. Premda nije ispao u potpunosti kako je želio, dočekan je s dobrom kritikom, što gaa je ohrabrilo da se nastavi baviti kamerom.",
+      "works": [
+        {
+          "url": "MatijaMoharic/matija_1.jpg",
+          "name": "Čovjek na bicikli"
+        },
+        {
+          "url": "MatijaMoharic/matija_2.jpg",
+          "name": "Leđa"
+        },
+        {
+          "url": "MatijaMoharic/matija_3.jpg",
+          "name": "Odsjaj"
+        }
+      ]
+    },
+    {
+      "author":"nikolagrabovac",
+      "name": "Nikola Grabovac",
+      "bio": "Nikola Grabovac rođen je 16.05.1997 u Hertenu, Njemačkoj. U Zagrebu živi od 1998. Pohađa Školu Primijenjene Umjetnosti i Dizajna u Zagrebu te nakon toga planira upisati Likovnu Akademiju. '' Zašto crtanje kao medij ? Teže si pitanje nisam mogao postaviti. Moža najjednostavnija potreba da mnogo stvari koje vidim oko sebe zabiljezim crtezom. Vjerujem da  skica ponekad moze biti rjecitija od tisuca listova teksta.",
+      "works": [
+        {
+          "url": "NikolaGrabovac/nikola_1.jpg",
+          "name": "OKOvana"
+        },
+        {
+          "url": "NikolaGrabovac/nikola_2.jpg",
+          "name": "Crvena uma"
+        }
+      ]
+    },
+    {
+      "author":"suncanavran",
+      "name": "Sunčana Vran",
+      "bio":"Rođena je 20.08.1993. godine u Zagrebu te od tada živi u Samoboru. Trenutno studira na Akademiji likovnih umjetnosti u Zagrebu na smjeru Grafika, u klasi Mirjane Vodopije. Izlagala je na više skupnih izložbi. Članica je ULUS-a i Pozitive Samobor.",
+      "works": [
+        {
+          "url": "SuncanaVran/suncana_1.jpg",
+          "name": "Oko tebe"
+        },
+        {
+          "url": "SuncanaVran/suncana_2.jpg",
+          "name": "Oblak"
+        }
+      ]
+    },
+    {
+      "author":"victorbjelakovic",
+      "name": "Victor Bjelaković",
+      "bio":"Rođena je 20.08.1993. godine u Zagrebu te od tada živi u Samoboru. Trenutno studira na Akademiji likovnih umjetnosti u Zagrebu na smjeru Grafika, u klasi Mirjane Vodopije. Izlagala je na više skupnih izložbi. Članica je ULUS-a i Pozitive Samobor.",
+      "works": [
+        {
+          "url": "VictorBjelakovic/victor_1.jpg",
+          "name": "Rainforest paradise"
+        },
+        {
+          "url": "VictorBjelakovic/victor_2.jpg",
+          "name": "Splash"
+        }
+      ]
+    },
+    {
+      "author":"zeljkomicuga",
+      "name": "Željko Mičuga",
+      "bio": "Rođen je 11.05.1989.Živi u Zagorju u malom mjestu Lipovec, apsolvent je na Pravnom fakultetu u Zagrebu Fotografijom se bavi iz hobija, neopterećeno fotografira kada ima vremena i volje, najviše voli pejzažnu fotografiju. Uživa u dugim šetnjama s psom i fotoaparatom oko vrata tražeći za idealnim kadrom. Fotografira sa Olympus E-500 fotoaparatom, Zuiko digital 11-22mm, Zuiko digital 50-200mm objektivima",
+      "works": [
+        {
+          "url": "ZeljkoMicuga/zeljko_1.jpg"
+        },
+        {
+          "url": "ZeljkoMicuga/zeljko_2.jpg"
+        },
+        {
+          "url": "ZeljkoMicuga/zeljko_3.jpg"
+        },
+        {
+          "url": "ZeljkoMicuga/zeljko_4.jpg"
+        }
+      ]
+    },
+    {
+      "author":"zvonimirpribanic",
+      "name": "Zvonimir Pribanić",
+      "bio": "Rođen 1995. godine u Ogulinu. Maturant Prirodoslovne grafičke škole u Rijeci, gdje trenutno i živi. Fotografija mu je velika strast i njome se bavi tri godine.",
+      "works": [
+        {
+          "url": "ZvonimirPribanic/zvonimir_1.jpg",
+          "name": "Road under El Teide vulcano on Tenerife"
+        },
+        {
+          "url": "ZvonimirPribanic/zvonimir_2.jpg",
+          "name": "Vlak u snijegu"
+        }
+      ]
+    }
+  ]
+}
