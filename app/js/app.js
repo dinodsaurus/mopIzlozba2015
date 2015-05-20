@@ -1,6 +1,5 @@
 "use strict";
 angular.module("mopIzlozba", [
-  "constants",
   "ui.router",
   "templates"
 ])

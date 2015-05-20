@@ -80,6 +80,9 @@ gulp.task("html", ["styles", "partials"], function () {
 
 gulp.task("images", function () {
   return gulp.src("app/img/**/*")
+    .pipe($.imageResize({
+      width : 720
+    }))
     .pipe($.cache($.imagemin({
       progressive: true,
       interlaced: true
@@ -88,7 +91,14 @@ gulp.task("images", function () {
 });
 
 gulp.task("work", function () {
-  return gulp.src("app/work/**/*")
+  return gulp.src("app/work/**/*.jpg")
+    .pipe($.imageResize({
+      width : 720
+    }))
+    .pipe($.cache($.imagemin({
+      progressive: true,
+      interlaced: true
+    })))
     .pipe(gulp.dest("dist/work"));
 });
 
@@ -153,7 +163,7 @@ gulp.task("wiredep", function () {
     .pipe(gulp.dest("app"));
 });
 
- gulp.task("build", ["validate", "constants", "html", "images", "fonts", "extras", "work"], function () {
+ gulp.task("build", ["validate", "scripts", "html", "images", "fonts", "extras", "work"], function () {
    return gulp.src("dist/**/*").pipe($.size({title: "build", gzip: true}));
  });
 

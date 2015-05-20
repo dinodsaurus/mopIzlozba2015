@@ -16,6 +16,7 @@
     "gulp-filter": "2.0.2",
     "gulp-flatten": "0.0.4",
     "gulp-if": "1.2.5",
+    "gulp-image-resize": "^0.6.0",
     "gulp-imagemin": "2.2.1",
     "gulp-jshint": "1.10.0",
     "gulp-karma": "0.0.4",
